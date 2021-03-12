@@ -1,0 +1,5 @@
+This document is needed for.
+Computer Science 206.
+This is an introductory C++ class.
+At Athabasca University.
+In Alberta, Canada.
